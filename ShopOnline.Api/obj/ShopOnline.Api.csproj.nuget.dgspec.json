@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\ShopOnline.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\ShopOnline.Api.csproj": {
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\ShopOnline.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectUniqueName": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\ShopOnline.Api.csproj",
         "projectName": "ShopOnline.Api",
-        "projectPath": "c:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\ShopOnline.Api.csproj",
         "packagesPath": "C:\\Users\\muhba\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\obj\\",
+        "outputPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhba\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,9 +53,13 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
-            "MySql.Data.EntityFrameworkCore": {
+            "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.22, )"
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
