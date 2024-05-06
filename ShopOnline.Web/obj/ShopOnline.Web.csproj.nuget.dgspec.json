@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\ShopOnline.Web.csproj",
         "packagesPath": "C:\\Users\\muhba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\obj\\",
+        "outputPath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhba\\AppData\\Roaming\\NuGet\\NuGet.Config"

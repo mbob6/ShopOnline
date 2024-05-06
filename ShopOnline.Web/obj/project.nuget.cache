@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+rizN63iJLpR27JlirxgqaRPqyoQXt3w1+IrVNaMjVux77+2ppba4oEUvWhZOFZeZ5WQBTdjNNUfZBmDDIgJA==",
+  "dgSpecHash": "RXIN/crx840vaCR9gE1Jw/EgHagHgXQN5u8vSQLgvqVJqDYI5QST5YRBOdkMzqT+/TkNx1WUgDhVKZI0qkDR3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muhba\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\muhba\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
