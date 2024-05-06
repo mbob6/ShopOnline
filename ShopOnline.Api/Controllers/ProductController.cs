@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using ShopOnline.Api.Repositories.Contracts;
+using ShopOnline.Models;
 
 namespace ShopOnline.Api.Controllers;
 
@@ -13,4 +14,28 @@ public class ProductController : ControllerBase
     {
         this.productRepository = productRepository;
     }
+
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<ProductDto>>> GetItems()
+    {
+        try
+        {
+            var products = await this.productRepository.GetItems();
+            var productCategories = await this.productRepository.GetCategories();
+
+            if (products == null || productCategories == null)      
+            {
+                return NotFound();
+            }
+            else
+            {
+                var pro
+            }
+        }
+        catch (Exception)
+        {
+            
+            throw;
+        } ;
+    } 
 }
