@@ -1,5 +1,5 @@
 ﻿using ShopOnline.Api.Entities;
-using ShopOnline.Models;
+using ShopOnline.Models.Dtos;
 
 namespace ShopOnline.Api.Extensions;
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kHRexEfTfWV+hRo7AwYk9BT9etCWObZ5duhpiumloCwsj/ceZmnl0riM8eByjw2I2tz8Wd+mqn3RkwSyIExXEA==",
+  "dgSpecHash": "IbDvo/pvRug4hAVuW/kSvGWz8OY45FYMEhyQoDPeyLwvUCSuZJFj63bialS6Y1NG/JdGMNK7NV8e/YCbO3bi7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\shoponline.api\\ShopOnline.Api.csproj",
+  "projectFilePath": "C:\\Users\\muhba\\OneDrive\\Desktop\\C#Projects\\ShopOnline.Web\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muhba\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\muhba\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
