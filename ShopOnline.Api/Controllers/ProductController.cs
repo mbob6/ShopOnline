@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using ShopOnline.Api.Repositories.Contracts;
 using ShopOnline.Models;
+using ShopOnline.Api.Extensions;
 
 namespace ShopOnline.Api.Controllers;
 
@@ -29,13 +30,14 @@ public class ProductController : ControllerBase
             }
             else
             {
-                var pro
+                var productDtos = products.ConvertToDto(productCategories);
+
+                return Ok(productDtos);
             }
         }
         catch (Exception)
         {
-            
-            throw;
+            return StatusCode(StatusCodes.Status500InternalServerError, "Error retrieving data from the database");
         } ;
     } 
 }
